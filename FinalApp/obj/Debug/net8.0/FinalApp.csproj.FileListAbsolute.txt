@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\FinalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\FinalApp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\FinalApp.AssemblyInfo.cs
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\FinalApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\FinalApp\FinalApp\bin\Debug\net8.0\FinalApp.exe
+C:\Users\Student\source\repos\FinalApp\FinalApp\bin\Debug\net8.0\FinalApp.deps.json
+C:\Users\Student\source\repos\FinalApp\FinalApp\bin\Debug\net8.0\FinalApp.runtimeconfig.json
+C:\Users\Student\source\repos\FinalApp\FinalApp\bin\Debug\net8.0\FinalApp.dll
+C:\Users\Student\source\repos\FinalApp\FinalApp\bin\Debug\net8.0\FinalApp.pdb
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\FinalApp.dll
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\refint\FinalApp.dll
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\FinalApp.pdb
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\FinalApp.genruntimeconfig.cache
+C:\Users\Student\source\repos\FinalApp\FinalApp\obj\Debug\net8.0\ref\FinalApp.dll
+C:\Users\Student\source\repos\FinalApp\FinalApp\bin\Debug\net8.0\AudioPlayer.cs
